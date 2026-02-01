@@ -1,3 +1,7 @@
+<img width="1048" height="603" alt="Image" src="https://github.com/user-attachments/assets/e6d814c5-6e54-4378-a0fa-067ab91682bb" />
+
+<img width="1044" height="624" alt="Image" src="https://github.com/user-attachments/assets/e1b08395-a615-4681-8609-0041d3815d0b" />
+
 1. Is this EV charging station economically viable?
 
 Yes — but it’s a utilization-driven business, not a pure pricing play.
